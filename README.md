@@ -1,4 +1,8 @@
 # act7formulario
+<img width="914" height="923" alt="image" src="https://github.com/user-attachments/assets/a1139792-8561-4f45-af4b-7544eee985cb" />
+<img width="917" height="993" alt="image" src="https://github.com/user-attachments/assets/22190c9a-0c60-4af2-a638-d72338f29169" />
+<img width="920" height="901" alt="image" src="https://github.com/user-attachments/assets/01a11f8b-593a-4c9a-94ac-16bcc8e6c171" />
+
 
 A new Flutter project.
 
